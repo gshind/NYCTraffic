@@ -1,4 +1,4 @@
-# NYCTraffic
+# Chicago/NYCTraffic
 Illinois Geometry Lab
 Modeling Traffic Patterns in NYC
 
